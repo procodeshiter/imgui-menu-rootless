@@ -1,0 +1,8 @@
+Package: com.brutaltirp.imgui
+Name: free mod menu
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm64
+Description: imgui menu ds
+Maintainer: dulces suenos
+Author: https://t.me/brutaltrip
